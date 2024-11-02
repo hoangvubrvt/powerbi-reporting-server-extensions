@@ -98,7 +98,7 @@ RSPowerBI_2024_10_11_09_56_17.log
 
 ```console
 # The Build Outputs of the Security Extenstion Project
-$ ls ./CustomSecurity/bin/Debug/
+$ ls ./powerbi-reporting-server-extensions/bin/Debug/
 PowerBI.ReportingServer.Extensions.dll*  Microsoft.ReportingServices.Interfaces.dll*
 PowerBI.ReportingServer.Extensions.pdb   Sso.aspx
 ```
