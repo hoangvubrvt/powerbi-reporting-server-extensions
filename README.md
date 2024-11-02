@@ -350,6 +350,7 @@ As shown in the Figure 3, authorization follows this sequence:
 
 # References
 - https://github.com/ousiax/PowerBI.ReportingServices.Extensions
+- https://openid.net/developers/how-connect-works
 - https://docs.microsoft.com/en-us/power-bi/report-server/get-started, What is Power BI Report Server?
 - https://docs.microsoft.com/en-us/power-bi/report-server/install-report-server, Install Power BI Report Server
 - https://docs.microsoft.com/en-us/power-bi/report-server/install-powerbi-desktop, Install Power BI Desktop for Power BI Report Server
