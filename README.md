@@ -1,5 +1,5 @@
 
-# Reporting Services Custom Security Sample for Power BI Report Server and SQL Reporting Services
+# Custom Security for Power BI Report Server and SQL Reporting Services, using the OpenID Connect protocol.
 This project contains a sample and the steps that allow you to deploy a custom security extension to Power BI Report Server.
 
 # Prerequisites
